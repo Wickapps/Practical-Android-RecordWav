@@ -1,0 +1,30 @@
+#Internal package file, do not edit.
+#Fri Oct 27 13:17:06 CDT 2017
+2.base=D\:\\AndroidStudioProjects\\RecordWav\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=D\:\\AndroidStudioProjects\\RecordWav\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_83092f9b152168af0bf8d64a3bdf2e5215619c0f\\classes.dex
+5.set=DEX
+3.base=D\:\\AndroidStudioProjects\\RecordWav\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=D\:\\AndroidStudioProjects\\RecordWav\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_bdd1628627cd0a766c5fbf6ff9bdbf6d9ea68bde\\classes.dex
+2.set=ANDROID_RESOURCE
+4.base=D\:\\AndroidStudioProjects\\RecordWav\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=D\:\\AndroidStudioProjects\\RecordWav\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+7.set=ANDROID_RESOURCE
+count=9
+0.file=D\:\\AndroidStudioProjects\\RecordWav\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\file_save.xml
+5.base=D\:\\AndroidStudioProjects\\RecordWav\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_83092f9b152168af0bf8d64a3bdf2e5215619c0f
+8.file=D\:\\AndroidStudioProjects\\RecordWav\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\record_audio.xml
+4.set=ANDROID_RESOURCE
+6.base=D\:\\AndroidStudioProjects\\RecordWav\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_bdd1628627cd0a766c5fbf6ff9bdbf6d9ea68bde
+1.file=D\:\\AndroidStudioProjects\\RecordWav\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\mic.png
+1.set=ANDROID_RESOURCE
+7.base=D\:\\AndroidStudioProjects\\RecordWav\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=D\:\\AndroidStudioProjects\\RecordWav\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\main.xml
+6.set=DEX
+0.base=D\:\\AndroidStudioProjects\\RecordWav\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.base=D\:\\AndroidStudioProjects\\RecordWav\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=D\:\\AndroidStudioProjects\\RecordWav\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+3.set=ANDROID_RESOURCE
+1.base=D\:\\AndroidStudioProjects\\RecordWav\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=D\:\\AndroidStudioProjects\\RecordWav\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE

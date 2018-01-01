@@ -1,0 +1,429 @@
+[
+    {
+        "outputFile": "D:\\AndroidStudioProjects\\RecordWav\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\RecordWav\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\RecordWav\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 52,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\RecordWav\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 106,
+                        "endColumn": 52,
+                        "endOffset": 154
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 222,
+                    "endColumn": 168,
+                    "endOffset": 386
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\RecordWav\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 164,
+                        "endColumn": 168,
+                        "endOffset": 328
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 391,
+                    "endColumn": 46,
+                    "endOffset": 433
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\RecordWav\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 58,
+                        "endColumn": 46,
+                        "endOffset": 100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 438,
+                    "endColumn": 47,
+                    "endOffset": 481
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\RecordWav\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 1,
+                        "startOffset": 625,
+                        "endColumn": 44,
+                        "endOffset": 668
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 486,
+                    "endColumn": 59,
+                    "endOffset": 541
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\RecordWav\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 333,
+                        "endColumn": 59,
+                        "endOffset": 388
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 546,
+                    "endColumn": 67,
+                    "endOffset": 609
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\RecordWav\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 458,
+                        "endColumn": 67,
+                        "endOffset": 521
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 614,
+                    "endColumn": 58,
+                    "endOffset": 668
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\RecordWav\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1082,
+                        "endColumn": 58,
+                        "endOffset": 1136
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 673,
+                    "endColumn": 54,
+                    "endOffset": 723
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\RecordWav\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1027,
+                        "endColumn": 54,
+                        "endOffset": 1077
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 728,
+                    "endColumn": 87,
+                    "endOffset": 811
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\RecordWav\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1141,
+                        "endColumn": 87,
+                        "endOffset": 1224
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 816,
+                    "endColumn": 52,
+                    "endOffset": 864
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\RecordWav\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 974,
+                        "endColumn": 52,
+                        "endOffset": 1022
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 869,
+                    "endColumn": 57,
+                    "endOffset": 922
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\RecordWav\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 857,
+                        "endColumn": 57,
+                        "endOffset": 910
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 927,
+                    "endColumn": 60,
+                    "endOffset": 983
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\RecordWav\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 1,
+                        "startOffset": 672,
+                        "endColumn": 57,
+                        "endOffset": 728
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 988,
+                    "endColumn": 64,
+                    "endOffset": 1048
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\RecordWav\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 733,
+                        "endColumn": 64,
+                        "endOffset": 793
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1053,
+                    "endColumn": 58,
+                    "endOffset": 1107
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\RecordWav\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 798,
+                        "endColumn": 58,
+                        "endOffset": 852
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1112,
+                    "endColumn": 53,
+                    "endOffset": 1161
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\RecordWav\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 915,
+                        "endColumn": 53,
+                        "endOffset": 964
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1166,
+                    "endColumn": 59,
+                    "endOffset": 1221
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\RecordWav\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 393,
+                        "endColumn": 59,
+                        "endOffset": 448
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1226,
+                    "endColumn": 59,
+                    "endOffset": 1281
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\RecordWav\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 1,
+                        "startOffset": 523,
+                        "endColumn": 56,
+                        "endOffset": 578
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1286,
+                    "endColumn": 47,
+                    "endOffset": 1329
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\RecordWav\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 1,
+                        "startOffset": 580,
+                        "endColumn": 44,
+                        "endOffset": 623
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1334,
+                    "endLine": 28,
+                    "endColumn": 12,
+                    "endOffset": 1639
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\RecordWav\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 192,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 503
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1644,
+                    "endLine": 31,
+                    "endColumn": 12,
+                    "endOffset": 1799
+                },
+                "from": {
+                    "file": "D:\\AndroidStudioProjects\\RecordWav\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 544,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 701
+                    }
+                }
+            }
+        ]
+    }
+]

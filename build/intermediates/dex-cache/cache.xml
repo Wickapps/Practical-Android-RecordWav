@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\RecordWav\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\AndroidStudioProjects\RecordWav\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_83092f9b152168af0bf8d64a3bdf2e5215619c0f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioProjects\RecordWav\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6d9b23f908bca2874be05dd2d4de47302b21734a">
+        <dex dex="D:\AndroidStudioProjects\RecordWav\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_bdd1628627cd0a766c5fbf6ff9bdbf6d9ea68bde\classes.dex" />
+    </item>
+
+</items>
