@@ -1,13 +1,12 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 23
-    buildToolsVersion "25.0.2"
+    compileSdkVersion 26
 
     defaultConfig {
         applicationId "com.wickham.android.recordwav"
-        minSdkVersion 23
-        targetSdkVersion 23
+        minSdkVersion 26
+        targetSdkVersion 26
     }
 
     buildTypes {
@@ -18,17 +17,16 @@ android {
     }
 
     applicationVariants.all { variant ->
-        variant.outputs.each { output ->
+        variant.outputs.all { output ->
             def project = "RecordWav"
             def SEP = "_"
             def buildType = variant.variantData.variantConfiguration.buildType.name
             def version = variant.versionName
-            def date = new Date();
+            def date = new Date()
             def formattedDate = date.format('ddMMyy_HHmm')
-
             def newApkName = project + SEP + version + SEP + formattedDate + ".apk"
-
-            output.outputFile = new File(output.outputFile.parent, newApkName)
+            output.outputFileName = new File(newApkName)
         }
     }
+
 }
